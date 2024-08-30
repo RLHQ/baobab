@@ -1,53 +1,53 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
-  image: "/images/banner.png"
+  title: "Baboon - Effortlessly Save and Share Your AI Conversations"
+  content: "Baboon is a Chrome extension designed to help you better manage, save, and share valuable conversations with AI tools like ChatGPT, Claude, and Gemini, making your knowledge management more efficient and convenient."
+  image: "/images/baboon-banner2.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    label: "Try Baboon Now"
+    link: "https://example.com/get-started"
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
+  - title: "Key Features of Baboon"
     image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    content: "Baboon is packed with features that make managing your AI conversations seamless and effective. Here’s what Baboon can do for you:"
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
-    button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"
-
-  - title: "Discover the Key Features Of Hugo"
-    image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
-    bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
-    button:
-      enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
-
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
-    image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
-    bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Save important conversations with AI tools like ChatGPT, Claude, and Gemini."
+      - "Automatically generates a Table of Contents for easy navigation of saved Q&As."
+      - "Share saved conversations in a card format on social media or with your team."
+      - "Customize the appearance of your conversation cards to match your personal or brand style."
+      - "Export conversations in multiple formats including images, Markdown, and HTML."
     button:
       enable: false
       label: ""
       link: ""
+
+  - title: "Upcoming Features"
+    image: "/images/call-to-action.png"
+    content: "We’re continuously working to bring new functionalities to Baboon that will further enhance your experience. Here’s a sneak peek at what’s coming soon:"
+    bulletpoints:
+      - "In-Plugin Notes: Add personal remarks or thoughts to saved Q&As for richer content."
+      - "Card Categorization and Tagging: Organize and locate content easily with tags and categories."
+      - "Automated Content Organization: Automatically merge conversations on similar topics or generate summaries for quick insights."
+    button:
+      enable: true
+      label: "Learn More"
+      link: "https://example.com/upcoming-features"
+
+  - title: "Why Choose Baboon?"
+    image: "/images/feature-3.png"
+    content: "Baboon is designed to streamline your knowledge management with AI conversations, making it the perfect tool for professionals, students, and everyday users alike."
+    bulletpoints:
+      - "Enhance productivity by efficiently organizing and saving valuable conversation snippets."
+      - "Boost collaboration with easy-to-share card-style conversation summaries."
+      - "Adaptable for various use cases – from work to personal knowledge management."
+      - "Continuously evolving with new features to meet the needs of our users."
+    button:
+      enable: false
+      label: ""
+      link: ""
+
 ---
