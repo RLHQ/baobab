@@ -33,7 +33,7 @@ features:
       - "Card Categorization and Tagging: Organize and locate content easily with tags and categories."
       - "Automated Content Organization: Automatically merge conversations on similar topics or generate summaries for quick insights."
     button:
-      enable: true
+      enable: false
       label: "Learn More"
       link: "https://example.com/upcoming-features"
 
