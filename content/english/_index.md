@@ -12,7 +12,7 @@ banner:
 # Features
 features:
   - title: "Key Features of Baboon"
-    image: "/images/service-1.png"
+    image: "/images/baboon-01.jpg"
     content: "Baboon is packed with features that make managing your AI conversations seamless and effective. Here’s what Baboon can do for you:"
     bulletpoints:
       - "Save important conversations with AI tools like ChatGPT, Claude, and Gemini."
@@ -26,7 +26,7 @@ features:
       link: ""
 
   - title: "Upcoming Features"
-    image: "/images/call-to-action.png"
+    image: "/images/baboon-02.jpg"
     content: "We’re continuously working to bring new functionalities to Baboon that will further enhance your experience. Here’s a sneak peek at what’s coming soon:"
     bulletpoints:
       - "In-Plugin Notes: Add personal remarks or thoughts to saved Q&As for richer content."
@@ -38,7 +38,7 @@ features:
       link: "https://example.com/upcoming-features"
 
   - title: "Why Choose Baboon?"
-    image: "/images/feature-3.png"
+    image: "/images/baboon-02.jpg"
     content: "Baboon is designed to streamline your knowledge management with AI conversations, making it the perfect tool for professionals, students, and everyday users alike."
     bulletpoints:
       - "Enhance productivity by efficiently organizing and saving valuable conversation snippets."
